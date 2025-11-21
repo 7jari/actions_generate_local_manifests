@@ -1,0 +1,6 @@
+repo init -u https://github.com/ArrowOS/android_manifest.git -b arrow-13.1 --git-lfs
+git clone https://github.com/ArrowOS-Devices/android_device_xiaomi_mt6768-common device/xiaomi/mt6768-common -b arrow-12.1
+git clone https://github.com/ArrowOS-Devices/android_device_xiaomi_merlinx device/xiaomi/merlinx -b arrow-12.1
+git clone https://github.com/ArrowOS-Devices/android_vendor_xiaomi_merlinx vendor/xiaomi/merlinx -b arrow-12.1
+git clone https://github.com/ArrowOS-Devices/android_vendor_xiaomi_mt6768-ims vendor/xiaomi/mt6768-ims -b arrow-12.1
+git clone https://github.com/Jbub5/android_kernel_xiaomi_mt6768 kernel/xiaomi/mt6768 -b kernel-tree
