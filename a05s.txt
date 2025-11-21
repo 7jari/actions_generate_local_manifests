@@ -1,4 +1,0 @@
-repo init -u https://github.com/LineageOS/android.git -b lineage-22.1 --git-lfs
-git clone https://github.com/galaxy-a05s/lineage_device_samsung_a05s device/samsung/a05s -b lineage-22
-git clone https://github.com/galaxy-a05s/lineage_device_samsung_bengal-common device/samsung/bengal-common -b lineage-22
-git clone https://github.com/galaxy-a05s/android_vendor_samsung_bengal_f vendor/samsung/bengal -b lineage-22
